@@ -26,7 +26,6 @@ contract auction {
         bytes32 bidID;
         string price;
         string random;
-        //string groupSig;
     }
 
     struct successBidder {//中标
